@@ -1,0 +1,5 @@
+{"name":"Han", "item":{"no":1, "age":20, "location":"seoul"},
+  "contacts":[{"name":"home", "number":"01034454489"},
+              {"name":"home2", "number":"010"},
+              {"name":"home3", "number":"0000"}
+              ]}
